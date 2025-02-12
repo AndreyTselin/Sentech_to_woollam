@@ -1,2 +1,2 @@
-# Sentech_to_woollam
-It takes a sentech format file and transform to woollam format
+# Sentech_to_woollam (ellipsometry)
+It takes a sentech format file of ellipsonetry data and transform to woollam format
